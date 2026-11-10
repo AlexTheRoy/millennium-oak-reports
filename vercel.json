@@ -6,17 +6,109 @@
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
       ]
     },
     {
       "source": "/",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/Millennium-Oak-Campaign-Overview-Last-3-Months-10-12-26",
+      "destination": "/Millennium-Oak-Campaign-Overview-Last-3-Months-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-Campaign-Overview-Last-3-Months-10-12-26.html",
+      "destination": "/Millennium-Oak-Campaign-Overview-Last-3-Months-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-Auto-Campaign-Performance-Last-3-Months-10-12-26",
+      "destination": "/Millennium-Oak-Auto-Campaign-Performance-Last-3-Months-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-Auto-Campaign-Performance-Last-3-Months-10-12-26.html",
+      "destination": "/Millennium-Oak-Auto-Campaign-Performance-Last-3-Months-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-Inbound-Call-Review-10-13-26",
+      "destination": "/Millennium-Oak-Inbound-Call-Review-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-Inbound-Call-Review-10-13-26.html",
+      "destination": "/Millennium-Oak-Inbound-Call-Review-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-SEO-Audit-10-12-26",
+      "destination": "/Millennium-Oak-SEO-Audit-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-SEO-Audit-10-12-26.html",
+      "destination": "/Millennium-Oak-SEO-Audit-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-CA-Demographic-Research-10-12-26",
+      "destination": "/Millennium-Oak-CA-Demographic-Research-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-CA-Demographic-Research-10-12-26.html",
+      "destination": "/Millennium-Oak-CA-Demographic-Research-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-CA-Wildfire-Risk-10-12-26",
+      "destination": "/Millennium-Oak-CA-Wildfire-Risk-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-CA-Wildfire-Risk-10-12-26.html",
+      "destination": "/Millennium-Oak-CA-Wildfire-Risk-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-CA-ZIP-Data-10-12-26.csv",
+      "destination": "/Millennium-Oak-CA-ZIP-Data-11-10-26.csv",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-Inbound-Call-Review-10-12-26",
+      "destination": "/Millennium-Oak-Inbound-Call-Review-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Millennium-Oak-Inbound-Call-Review-10-12-26.html",
+      "destination": "/Millennium-Oak-Inbound-Call-Review-11-10-26",
+      "permanent": false
     }
   ]
 }

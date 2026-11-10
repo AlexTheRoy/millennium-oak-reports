@@ -1,0 +1,354 @@
+zip,state,county,region,city,leads,leads_aug_2026,leads_sep_2026,leads_oct_2026,leads_nov_2026,homeowners,status_set,quoted,sold_households,items_sold,inbound_callers,inbound_calls
+90034,CA,Los Angeles County,Los Angeles County,Los Angeles,4,2,1,1,0,0,4,2,1,1,0,0
+92101,CA,San Diego County,San Diego & Imperial,San Diego,4,1,1,2,0,0,4,2,1,1,0,0
+92324,CA,San Bernardino County,Inland Empire,Colton,3,1,0,2,0,0,2,2,1,1,0,0
+91706,CA,Los Angeles County,Los Angeles County,Baldwin Park,6,1,1,3,1,1,4,1,1,3,1,2
+90638,CA,Los Angeles County,Los Angeles County,La Mirada,2,0,0,2,0,1,2,1,1,1,0,0
+94132,CA,San Francisco County,Bay Area,San Francisco,2,0,0,1,1,0,1,1,1,3,1,1
+90280,CA,Los Angeles County,Los Angeles County,South Gate,1,1,0,0,0,0,1,1,1,2,0,0
+90704,CA,Los Angeles County,Los Angeles County,Avalon,1,0,0,1,0,0,1,1,1,2,0,0
+95112,CA,Santa Clara County,Bay Area,San Jose,1,0,0,1,0,1,1,1,1,1,0,0
+95757,CA,Sacramento County,Sacramento Region,Elk Grove,1,0,0,1,0,0,1,1,1,1,1,1
+90805,CA,Los Angeles County,Los Angeles County,Long Beach,8,2,4,2,0,3,7,4,0,0,1,1
+90804,CA,Los Angeles County,Los Angeles County,Long Beach,4,1,0,3,0,0,4,3,0,0,2,2
+90008,CA,Los Angeles County,Los Angeles County,Los Angeles,11,5,2,3,1,1,9,2,0,0,1,1
+92126,CA,San Diego County,San Diego & Imperial,San Diego,3,2,0,1,0,0,3,2,0,0,0,0
+92841,CA,Orange County,Orange County,Garden Grove,3,0,0,3,0,0,2,2,0,0,1,1
+95824,CA,Sacramento County,Sacramento Region,Sacramento,3,3,0,0,0,1,3,2,0,0,1,1
+90660,CA,Los Angeles County,Los Angeles County,Pico Rivera,7,0,4,3,0,0,7,1,0,0,1,1
+91730,CA,San Bernardino County,Inland Empire,Rancho Cucamonga,5,3,1,1,0,0,4,1,0,0,0,0
+90807,CA,Los Angeles County,Los Angeles County,Long Beach,4,1,1,2,0,0,4,1,0,0,0,0
+91911,CA,San Diego County,San Diego & Imperial,Chula Vista,4,0,0,3,1,0,2,1,0,0,0,0
+92553,CA,Riverside County,Inland Empire,Moreno Valley,4,1,2,1,0,0,4,1,0,0,0,0
+93534,CA,Los Angeles County,Los Angeles County,Lancaster,4,2,2,0,0,0,3,1,0,0,0,0
+90007,CA,Los Angeles County,Los Angeles County,Los Angeles,3,1,1,1,0,0,2,1,0,0,0,0
+90601,CA,Los Angeles County,Los Angeles County,Whittier,3,1,1,1,0,2,3,1,0,0,1,1
+90746,CA,Los Angeles County,Los Angeles County,Carson,3,1,0,2,0,0,3,1,0,0,0,0
+90802,CA,Los Angeles County,Los Angeles County,Long Beach,3,1,0,2,0,1,2,1,0,0,0,0
+91010,CA,Los Angeles County,Los Angeles County,Duarte,3,0,1,1,1,1,2,1,0,0,0,0
+91764,CA,San Bernardino County,Inland Empire,Ontario,3,1,0,0,2,0,2,1,0,0,0,0
+93308,CA,Kern County,San Joaquin Valley,Bakersfield,3,2,1,0,0,0,3,1,0,0,0,0
+93722,CA,Fresno County,San Joaquin Valley,Fresno,3,2,0,0,1,1,2,1,0,0,1,1
+90023,CA,Los Angeles County,Los Angeles County,Los Angeles,2,0,0,0,2,0,1,1,0,0,0,0
+90028,CA,Los Angeles County,Los Angeles County,Los Angeles,2,2,0,0,0,0,2,1,0,0,0,0
+90723,CA,Los Angeles County,Los Angeles County,Paramount,2,0,1,1,0,1,1,1,0,0,1,1
+91977,CA,San Diego County,San Diego & Imperial,Spring Valley,2,2,0,0,0,0,2,1,0,0,1,1
+92129,CA,San Diego County,San Diego & Imperial,San Diego,2,0,0,2,0,0,2,1,0,0,1,1
+92201,CA,Riverside County,Inland Empire,Indio,2,0,1,1,0,0,2,1,0,0,0,0
+92571,CA,Riverside County,Inland Empire,Perris,2,0,2,0,0,1,2,1,0,0,0,0
+93555,CA,Kern County,San Joaquin Valley,Ridgecrest,2,0,2,0,0,0,2,1,0,0,0,0
+94109,CA,San Francisco County,Bay Area,San Francisco,2,1,1,0,0,0,2,1,0,0,0,0
+95128,CA,Santa Clara County,Bay Area,San Jose,2,1,0,1,0,0,2,1,0,0,0,0
+95210,CA,San Joaquin County,San Joaquin Valley,Stockton,2,0,1,1,0,0,2,1,0,0,1,1
+95351,CA,Stanislaus County,San Joaquin Valley,Modesto,2,1,0,0,1,0,1,1,0,0,0,0
+95687,CA,Solano County,Bay Area,Vacaville,2,1,1,0,0,2,2,1,0,0,0,0
+90025,CA,Los Angeles County,Los Angeles County,Los Angeles,1,0,1,0,0,0,1,1,0,0,0,0
+90029,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,0,1,1,0,0,0,0
+90505,CA,Los Angeles County,Los Angeles County,Torrance,1,0,1,0,0,0,1,1,0,0,1,1
+90712,CA,Los Angeles County,Los Angeles County,Long Beach,1,1,0,0,0,0,1,1,0,0,0,0
+91301,CA,Los Angeles County,Los Angeles County,Agoura Hills,1,1,0,0,0,0,1,1,0,0,1,1
+91307,CA,Los Angeles County,Los Angeles County,West Hills,1,1,0,0,0,0,1,1,0,0,0,0
+91506,CA,Los Angeles County,Los Angeles County,Burbank,1,0,0,1,0,0,1,1,0,0,0,0
+91701,CA,San Bernardino County,Inland Empire,Rancho Cucamonga,1,1,0,0,0,0,1,1,0,0,0,0
+91702,CA,Los Angeles County,Los Angeles County,Azusa,1,0,1,0,0,0,1,1,0,0,0,0
+92104,CA,San Diego County,San Diego & Imperial,San Diego,1,0,0,1,0,0,1,1,0,0,0,0
+92275,CA,Imperial County,San Diego & Imperial,Salton City,1,1,0,0,0,0,1,1,0,0,0,0
+92301,CA,San Bernardino County,Inland Empire,Adelanto,1,1,0,0,0,0,1,1,0,0,0,0
+92392,CA,San Bernardino County,Inland Empire,Victorville,1,1,0,0,0,0,1,1,0,0,0,0
+92505,CA,Riverside County,Inland Empire,Riverside,1,0,1,0,0,0,1,1,0,0,0,0
+92603,CA,Orange County,Orange County,Irvine,1,1,0,0,0,0,1,1,0,0,0,0
+93001,CA,Ventura County,Central Coast,Ventura,1,0,1,0,0,0,1,1,0,0,0,0
+93657,CA,Fresno County,San Joaquin Valley,Sanger,1,0,0,1,0,1,1,1,0,0,0,0
+93706,CA,Fresno County,San Joaquin Valley,Fresno,1,0,1,0,0,0,1,1,0,0,0,0
+93725,CA,Fresno County,San Joaquin Valley,Fresno,1,1,0,0,0,0,1,1,0,0,0,0
+93726,CA,Fresno County,San Joaquin Valley,Fresno,1,1,0,0,0,0,1,1,0,0,0,0
+94553,CA,Contra Costa County,Bay Area,Martinez,1,1,0,0,0,0,1,1,0,0,0,0
+94591,CA,Solano County,Bay Area,Vallejo,1,1,0,0,0,0,1,1,0,0,0,0
+95111,CA,Santa Clara County,Bay Area,San Jose,1,1,0,0,0,0,1,1,0,0,0,0
+95133,CA,Santa Clara County,Bay Area,San Jose,1,1,0,0,0,1,1,1,0,0,0,0
+95207,CA,San Joaquin County,San Joaquin Valley,Stockton,1,1,0,0,0,0,1,1,0,0,0,0
+95219,CA,San Joaquin County,San Joaquin Valley,Stockton,1,0,0,1,0,0,1,1,0,0,0,0
+95350,CA,Stanislaus County,San Joaquin Valley,Modesto,1,0,1,0,0,0,1,1,0,0,0,0
+95363,CA,Stanislaus County,San Joaquin Valley,Patterson,1,1,0,0,0,1,1,1,0,0,0,0
+95841,CA,Sacramento County,Sacramento Region,Sacramento,1,0,1,0,0,0,1,1,0,0,0,0
+96101,CA,Modoc County,North State & Sierra,Alturas,1,0,0,1,0,1,1,1,0,0,0,0
+90042,CA,Los Angeles County,Los Angeles County,Los Angeles,6,3,2,1,0,2,5,0,0,0,0,0
+90731,CA,Los Angeles County,Los Angeles County,San Pedro,6,2,2,2,0,2,6,0,0,0,0,0
+91766,CA,Los Angeles County,Los Angeles County,Pomona,6,3,2,0,1,0,5,0,0,0,0,0
+91601,CA,Los Angeles County,Los Angeles County,North Hollywood,5,2,3,0,0,1,5,0,0,0,1,1
+91770,CA,Los Angeles County,Los Angeles County,Rosemead,5,1,2,1,1,3,3,0,0,0,1,1
+95376,CA,San Joaquin County,San Joaquin Valley,Tracy,5,0,4,1,0,0,5,0,0,0,0,0
+90043,CA,Los Angeles County,Los Angeles County,Los Angeles,4,2,1,1,0,1,4,0,0,0,0,0
+90210,CA,Los Angeles County,Los Angeles County,Beverly Hills,4,4,0,0,0,1,4,0,0,0,0,0
+90250,CA,Los Angeles County,Los Angeles County,Hawthorne,4,1,0,2,1,0,0,0,0,0,0,0
+90813,CA,Los Angeles County,Los Angeles County,Long Beach,4,4,0,0,0,0,4,0,0,0,2,3
+91311,CA,Los Angeles County,Los Angeles County,Los Angeles,4,1,3,0,0,0,4,0,0,0,0,0
+91732,CA,Los Angeles County,Los Angeles County,El Monte,4,0,3,1,0,0,3,0,0,0,0,0
+91740,CA,Los Angeles County,Los Angeles County,Glendora,4,0,1,2,1,1,2,0,0,0,0,0
+92404,CA,San Bernardino County,Inland Empire,San Bernardino,4,0,0,2,2,0,1,0,0,0,0,0
+93550,CA,Los Angeles County,Los Angeles County,Palmdale,4,1,0,3,0,0,1,0,0,0,0,0
+93551,CA,Los Angeles County,Los Angeles County,Palmdale,4,0,1,3,0,0,1,0,0,0,0,0
+90022,CA,Los Angeles County,Los Angeles County,Los Angeles,3,3,0,0,0,1,3,0,0,0,0,0
+90242,CA,Los Angeles County,Los Angeles County,Downey,3,2,0,1,0,0,3,0,0,0,0,0
+90620,CA,Orange County,Orange County,Buena Park,3,0,2,1,0,1,2,0,0,0,0,0
+91303,CA,Los Angeles County,Los Angeles County,Canoga Park,3,1,1,1,0,0,2,0,0,0,0,0
+91505,CA,Los Angeles County,Los Angeles County,Burbank,3,2,0,1,0,0,3,0,0,0,0,0
+91709,CA,San Bernardino County,Inland Empire,Chino Hills,3,0,1,1,1,1,2,0,0,0,0,0
+91744,CA,Los Angeles County,Los Angeles County,La Puente,3,2,0,1,0,2,2,0,0,0,0,0
+91767,CA,Los Angeles County,Los Angeles County,Pomona,3,1,1,1,0,1,3,0,0,0,0,0
+91768,CA,Los Angeles County,Los Angeles County,Pomona,3,0,1,2,0,0,1,0,0,0,0,0
+91801,CA,Los Angeles County,Los Angeles County,Alhambra,3,1,0,2,0,0,1,0,0,0,0,0
+92336,CA,San Bernardino County,Inland Empire,Fontana,3,1,1,0,1,1,2,0,0,0,0,0
+92504,CA,Riverside County,Inland Empire,Riverside,3,1,0,2,0,0,1,0,0,0,0,0
+92583,CA,Riverside County,Inland Empire,San Jacinto,3,1,1,1,0,2,3,0,0,0,0,0
+92707,CA,Orange County,Orange County,Santa Ana,3,0,0,1,2,1,0,0,0,0,0,0
+92821,CA,Orange County,Orange County,Brea,3,0,1,2,0,0,2,0,0,0,0,0
+93536,CA,Los Angeles County,Los Angeles County,Lancaster,3,0,1,2,0,0,2,0,0,0,0,0
+94578,CA,Alameda County,Bay Area,San Leandro,3,0,1,1,1,0,1,0,0,0,0,0
+95209,CA,San Joaquin County,San Joaquin Valley,Stockton,3,0,2,1,0,2,3,0,0,0,0,0
+95820,CA,Sacramento County,Sacramento Region,Sacramento,3,1,0,2,0,0,1,0,0,0,0,0
+90001,CA,Los Angeles County,Los Angeles County,Los Angeles,2,2,0,0,0,0,2,0,0,0,0,0
+90004,CA,Los Angeles County,Los Angeles County,Los Angeles,2,2,0,0,0,0,2,0,0,0,0,0
+90016,CA,Los Angeles County,Los Angeles County,Los Angeles,2,1,0,1,0,1,2,0,0,0,0,0
+90018,CA,Los Angeles County,Los Angeles County,Los Angeles,2,2,0,0,0,2,2,0,0,0,0,0
+90027,CA,Los Angeles County,Los Angeles County,Los Angeles,2,2,0,0,0,0,2,0,0,0,0,0
+90037,CA,Los Angeles County,Los Angeles County,Los Angeles,2,2,0,0,0,1,2,0,0,0,0,0
+90065,CA,Los Angeles County,Los Angeles County,Los Angeles,2,0,0,2,0,0,1,0,0,0,0,0
+90068,CA,Los Angeles County,Los Angeles County,Los Angeles,2,0,2,0,0,1,2,0,0,0,0,0
+90222,CA,Los Angeles County,Los Angeles County,Compton,2,2,0,0,0,0,2,0,0,0,0,0
+90241,CA,Los Angeles County,Los Angeles County,Downey,2,0,1,1,0,0,1,0,0,0,0,0
+90247,CA,Los Angeles County,Los Angeles County,Gardena,2,0,0,2,0,0,0,0,0,0,0,0
+90262,CA,Los Angeles County,Los Angeles County,Lynwood,2,1,1,0,0,1,2,0,0,0,0,0
+90265,CA,Los Angeles County,Los Angeles County,Malibu,2,1,0,1,0,1,1,0,0,0,0,0
+90304,CA,Los Angeles County,Los Angeles County,Inglewood,2,1,1,0,0,0,2,0,0,0,0,0
+90621,CA,Orange County,Orange County,Buena Park,2,0,0,0,2,0,0,0,0,0,0,0
+90710,CA,Los Angeles County,Los Angeles County,Harbor City,2,1,0,0,1,0,1,0,0,0,0,0
+91104,CA,Los Angeles County,Los Angeles County,Pasadena,2,1,0,0,1,0,1,0,0,0,0,0
+91331,CA,Los Angeles County,Los Angeles County,Pacoima,2,2,0,0,0,0,2,0,0,0,0,0
+91335,CA,Los Angeles County,Los Angeles County,Reseda,2,2,0,0,0,1,2,0,0,0,0,0
+91345,CA,Los Angeles County,Los Angeles County,Mission Hills,2,0,1,0,1,0,1,0,0,0,0,0
+91351,CA,Los Angeles County,Los Angeles County,Canyon Country,2,1,1,0,0,1,2,0,0,0,0,0
+91367,CA,Los Angeles County,Los Angeles County,Los Angeles,2,2,0,0,0,0,2,0,0,0,0,0
+91711,CA,Los Angeles County,Los Angeles County,Claremont,2,1,1,0,0,0,2,0,0,0,0,0
+91745,CA,Los Angeles County,Los Angeles County,Hacienda Heights,2,0,1,0,1,0,1,0,0,0,0,0
+91761,CA,San Bernardino County,Inland Empire,Ontario,2,1,1,0,0,1,2,0,0,0,0,0
+91932,CA,San Diego County,San Diego & Imperial,Imperial Beach,2,0,0,2,0,1,1,0,0,0,0,0
+92113,CA,San Diego County,San Diego & Imperial,San Diego,2,0,1,0,1,0,1,0,0,0,0,0
+92223,CA,Riverside County,Inland Empire,Cherry Valley,2,0,1,1,0,0,1,0,0,0,0,0
+92252,CA,San Bernardino County,Inland Empire,Joshua Tree,2,0,2,0,0,2,2,0,0,0,1,1
+92342,CA,San Bernardino County,Inland Empire,Helendale,2,0,0,2,0,1,1,0,0,0,0,0
+92344,CA,San Bernardino County,Inland Empire,Hesperia,2,0,0,2,0,0,0,0,0,0,0,0
+92345,CA,San Bernardino County,Inland Empire,Hesperia,2,1,0,0,1,1,1,0,0,0,0,0
+92371,CA,San Bernardino County,Inland Empire,Phelan,2,0,1,1,0,0,2,0,0,0,0,0
+92503,CA,Riverside County,Inland Empire,Riverside,2,2,0,0,0,0,2,0,0,0,0,0
+92555,CA,Riverside County,Inland Empire,Moreno Valley,2,0,0,1,1,1,0,0,0,0,0,0
+92595,CA,Riverside County,Inland Empire,Wildomar,2,1,0,1,0,0,1,0,0,0,0,0
+92647,CA,Orange County,Orange County,Huntington Beach,2,2,0,0,0,0,2,0,0,0,0,0
+92653,CA,Orange County,Orange County,Laguna Hills,2,0,2,0,0,0,2,0,0,0,0,0
+92708,CA,Orange County,Orange County,Fountain Valley,2,0,1,1,0,0,1,0,0,0,0,0
+92806,CA,Orange County,Orange County,Anaheim,2,1,0,1,0,0,1,0,0,0,0,0
+92840,CA,Orange County,Orange County,Garden Grove,2,1,1,0,0,0,2,0,0,0,0,0
+92879,CA,Riverside County,Inland Empire,Corona,2,0,0,2,0,0,1,0,0,0,0,0
+92880,CA,Riverside County,Inland Empire,Corona,2,0,0,1,1,0,0,0,0,0,0,0
+93306,CA,Kern County,San Joaquin Valley,Bakersfield,2,0,1,1,0,1,2,0,0,0,0,0
+93307,CA,Kern County,San Joaquin Valley,Bakersfield,2,1,1,0,0,0,2,0,0,0,0,0
+94015,CA,San Mateo County,Bay Area,Daly City,2,0,1,1,0,0,2,0,0,0,0,0
+94513,CA,Contra Costa County,Bay Area,Brentwood,2,1,1,0,0,0,2,0,0,0,0,0
+95337,CA,San Joaquin County,San Joaquin Valley,Manteca,2,0,2,0,0,0,2,0,0,0,0,0
+95501,CA,Humboldt County,North State & Sierra,Eureka,2,1,0,1,0,0,2,0,0,0,0,0
+95608,CA,Sacramento County,Sacramento Region,Carmichael,2,1,0,1,0,0,1,0,0,0,0,0
+95621,CA,Sacramento County,Sacramento Region,Citrus Heights,2,0,0,1,1,1,0,0,0,0,0,0
+95823,CA,Sacramento County,Sacramento Region,Sacramento,2,0,0,2,0,0,1,0,0,0,0,0
+95825,CA,Sacramento County,Sacramento Region,Sacramento,2,0,1,1,0,1,2,0,0,0,0,0
+95832,CA,Sacramento County,Sacramento Region,Sacramento,2,0,2,0,0,1,2,0,0,0,0,0
+95838,CA,Sacramento County,Sacramento Region,Sacramento,2,2,0,0,0,1,2,0,0,0,1,1
+90002,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,0,1,0,0,0,0,0
+90003,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,0,1,0,0,0,0,0
+90006,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,0,1,0,0,0,0,0
+90012,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,0,1,0,0,0,0,0
+90013,CA,Los Angeles County,Los Angeles County,Los Angeles,1,0,0,1,0,0,0,0,0,0,0,0
+90014,CA,Los Angeles County,Los Angeles County,Los Angeles,1,0,1,0,0,1,1,0,0,0,0,0
+90015,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,0,1,0,0,0,0,0
+90031,CA,Los Angeles County,Los Angeles County,Los Angeles,1,0,0,1,0,0,1,0,0,0,0,0
+90032,CA,Los Angeles County,Los Angeles County,Los Angeles,1,0,0,1,0,0,0,0,0,0,0,0
+90038,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,0,1,0,0,0,0,0
+90040,CA,Los Angeles County,Los Angeles County,Los Angeles,1,0,1,0,0,1,1,0,0,0,0,0
+90045,CA,Los Angeles County,Los Angeles County,Los Angeles,1,0,1,0,0,0,1,0,0,0,0,0
+90047,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,1,1,0,0,0,0,0
+90057,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,1,1,0,0,0,0,0
+90061,CA,Los Angeles County,Los Angeles County,Los Angeles,1,0,0,1,0,0,1,0,0,0,0,0
+90063,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,0,1,0,0,0,0,0
+90094,CA,Los Angeles County,Los Angeles County,Playa Vista,1,0,1,0,0,0,1,0,0,0,0,0
+90220,CA,Los Angeles County,Los Angeles County,Compton,1,0,0,0,1,0,0,0,0,0,0,0
+90230,CA,Los Angeles County,Los Angeles County,Culver City,1,1,0,0,0,0,1,0,0,0,0,0
+90240,CA,Los Angeles County,Los Angeles County,Downey,1,1,0,0,0,0,1,0,0,0,0,0
+90290,CA,Los Angeles County,Los Angeles County,Topanga,1,0,0,0,1,0,0,0,0,0,1,1
+90301,CA,Los Angeles County,Los Angeles County,Inglewood,1,1,0,0,0,0,1,0,0,0,0,0
+90303,CA,Los Angeles County,Los Angeles County,Inglewood,1,1,0,0,0,0,1,0,0,0,0,0
+90305,CA,Los Angeles County,Los Angeles County,Inglewood,1,1,0,0,0,1,1,0,0,0,0,0
+90501,CA,Los Angeles County,Los Angeles County,Torrance,1,1,0,0,0,0,1,0,0,0,0,0
+90602,CA,Los Angeles County,Los Angeles County,Whittier,1,0,1,0,0,0,1,0,0,0,0,0
+90604,CA,Los Angeles County,Los Angeles County,Whittier,1,1,0,0,0,0,1,0,0,0,0,0
+90605,CA,Los Angeles County,Los Angeles County,Whittier,1,0,0,0,1,0,0,0,0,0,0,0
+90630,CA,Orange County,Orange County,Cypress,1,0,1,0,0,0,1,0,0,0,0,0
+90640,CA,Los Angeles County,Los Angeles County,Montebello,1,1,0,0,0,0,1,0,0,0,0,0
+90670,CA,Los Angeles County,Los Angeles County,Santa Fe Springs,1,0,0,0,1,0,0,0,0,0,0,0
+90715,CA,Los Angeles County,Los Angeles County,Lakewood,1,0,1,0,0,0,1,0,0,0,0,0
+90810,CA,Los Angeles County,Los Angeles County,Long Beach,1,1,0,0,0,1,1,0,0,0,0,0
+91001,CA,Los Angeles County,Los Angeles County,Altadena,1,0,0,1,0,0,0,0,0,0,0,0
+91006,CA,Los Angeles County,Los Angeles County,Arcadia,1,1,0,0,0,1,1,0,0,0,0,0
+91011,CA,Los Angeles County,Los Angeles County,La Canada Flintridge,1,1,0,0,0,0,1,0,0,0,0,0
+91101,CA,Los Angeles County,Los Angeles County,Pasadena,1,1,0,0,0,1,1,0,0,0,0,0
+91107,CA,Los Angeles County,Los Angeles County,Pasadena,1,1,0,0,0,0,1,0,0,0,0,0
+91201,CA,Los Angeles County,Los Angeles County,Glendale,1,1,0,0,0,0,1,0,0,0,0,0
+91207,CA,Los Angeles County,Los Angeles County,Glendale,1,0,1,0,0,1,1,0,0,0,0,0
+91302,CA,Los Angeles County,Los Angeles County,Calabasas,1,1,0,0,0,0,1,0,0,0,0,0
+91304,CA,Los Angeles County,Los Angeles County,Box Canyon,1,0,0,1,0,0,0,0,0,0,0,0
+91316,CA,Los Angeles County,Los Angeles County,Encino,1,1,0,0,0,0,1,0,0,0,0,0
+91321,CA,Los Angeles County,Los Angeles County,Newhall,1,0,0,1,0,0,0,0,0,0,0,0
+91324,CA,Los Angeles County,Los Angeles County,Los Angeles,1,0,1,0,0,0,1,0,0,0,0,0
+91326,CA,Los Angeles County,Los Angeles County,Porter Ranch,1,1,0,0,0,0,1,0,0,0,0,0
+91340,CA,Los Angeles County,Los Angeles County,San Fernando,1,1,0,0,0,0,1,0,0,0,0,0
+91354,CA,Los Angeles County,Los Angeles County,Santa Clarita,1,1,0,0,0,0,1,0,0,0,0,0
+91356,CA,Los Angeles County,Los Angeles County,Tarzana,1,1,0,0,0,0,1,0,0,0,0,0
+91364,CA,Los Angeles County,Los Angeles County,Woodland Hills,1,1,0,0,0,0,1,0,0,0,0,0
+91384,CA,Los Angeles County,Los Angeles County,Castaic,1,1,0,0,0,0,1,0,0,0,0,0
+91401,CA,Los Angeles County,Los Angeles County,Van Nuys,1,1,0,0,0,0,1,0,0,0,0,0
+91403,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,0,1,0,0,0,0,0
+91405,CA,Los Angeles County,Los Angeles County,Van Nuys,1,1,0,0,0,0,1,0,0,0,0,0
+91411,CA,Los Angeles County,Los Angeles County,Los Angeles,1,1,0,0,0,0,1,0,0,0,0,0
+91504,CA,Los Angeles County,Los Angeles County,Burbank,1,0,1,0,0,1,1,0,0,0,0,0
+91605,CA,Los Angeles County,Los Angeles County,North Hollywood,1,1,0,0,0,1,1,0,0,0,0,0
+91606,CA,Los Angeles County,Los Angeles County,North Hollywood,1,1,0,0,0,0,1,0,0,0,0,0
+91708,CA,San Bernardino County,Inland Empire,Chino,1,0,0,1,0,1,1,0,0,0,0,0
+91710,CA,San Bernardino County,Inland Empire,Chino,1,0,0,1,0,0,1,0,0,0,0,0
+91723,CA,Los Angeles County,Los Angeles County,Covina,1,1,0,0,0,0,1,0,0,0,0,0
+91733,CA,Los Angeles County,Los Angeles County,South El Monte,1,0,1,0,0,0,1,0,0,0,0,0
+91737,CA,San Bernardino County,Inland Empire,Rancho Cucamonga,1,0,1,0,0,0,1,0,0,0,0,0
+91746,CA,Los Angeles County,Los Angeles County,La Puente,1,0,0,1,0,0,1,0,0,0,0,0
+91748,CA,Los Angeles County,Los Angeles County,Rowland Heights,1,0,0,1,0,0,0,0,0,0,0,0
+91752,CA,Riverside County,Inland Empire,Mira Loma,1,0,1,0,0,1,1,0,0,0,0,0
+91754,CA,Los Angeles County,Los Angeles County,Monterey Park,1,1,0,0,0,0,1,0,0,0,0,0
+91775,CA,Los Angeles County,Los Angeles County,San Gabriel,1,0,1,0,0,0,1,0,0,0,0,0
+91776,CA,Los Angeles County,Los Angeles County,San Gabriel,1,0,0,1,0,0,0,0,0,0,0,0
+91791,CA,Los Angeles County,Los Angeles County,West Covina,1,0,1,0,0,0,1,0,0,0,0,0
+91792,CA,Los Angeles County,Los Angeles County,West Covina,1,0,0,1,0,0,0,0,0,0,0,0
+91915,CA,San Diego County,San Diego & Imperial,Chulamvista,1,0,1,0,0,0,1,0,0,0,0,0
+91950,CA,San Diego County,San Diego & Imperial,National City,1,0,1,0,0,0,1,0,0,0,0,0
+92020,CA,San Diego County,San Diego & Imperial,El Cajon,1,1,0,0,0,0,1,0,0,0,0,0
+92058,CA,San Diego County,San Diego & Imperial,Oceanside,1,0,1,0,0,0,1,0,0,0,0,0
+92083,CA,San Diego County,San Diego & Imperial,Vista,1,0,0,0,1,0,0,0,0,0,0,0
+92103,CA,San Diego County,San Diego & Imperial,San Diego,1,1,0,0,0,0,1,0,0,0,0,0
+92105,CA,San Diego County,San Diego & Imperial,San Diego,1,0,0,1,0,0,1,0,0,0,0,0
+92114,CA,San Diego County,San Diego & Imperial,San Diego,1,0,0,1,0,0,1,0,0,0,0,0
+92123,CA,San Diego County,San Diego & Imperial,San Diego,1,0,0,0,1,0,1,0,0,0,0,0
+92139,CA,San Diego County,San Diego & Imperial,San Diego,1,0,0,0,1,0,0,0,0,0,0,0
+92234,CA,Riverside County,Inland Empire,Cathedral City,1,0,0,1,0,1,1,0,0,0,0,0
+92236,CA,Riverside County,Inland Empire,Coachella,1,0,0,0,1,0,0,0,0,0,0,0
+92243,CA,Imperial County,San Diego & Imperial,El Centro,1,1,0,0,0,0,1,0,0,0,0,0
+92249,CA,Imperial County,San Diego & Imperial,Heber,1,0,1,0,0,0,1,0,0,0,0,0
+92250,CA,Imperial County,San Diego & Imperial,Holtville,1,1,0,0,0,0,1,0,0,0,0,0
+92285,CA,San Bernardino County,Inland Empire,Homestead Valley,1,0,1,0,0,0,1,0,0,0,0,0
+92307,CA,San Bernardino County,Inland Empire,Apple Valley,1,0,0,0,1,0,0,0,0,0,0,0
+92308,CA,San Bernardino County,Inland Empire,Apple Valley,1,0,1,0,0,0,0,0,0,0,0,0
+92316,CA,San Bernardino County,Inland Empire,Bloomington,1,1,0,0,0,0,1,0,0,0,0,0
+92327,CA,San Bernardino County,Inland Empire,Daggett,1,0,0,0,1,0,0,0,0,0,0,0
+92335,CA,San Bernardino County,Inland Empire,Fontana,1,0,0,1,0,0,1,0,0,0,0,0
+92354,CA,San Bernardino County,Inland Empire,Loma Linda,1,0,1,0,0,1,1,0,0,0,0,0
+92363,CA,San Bernardino County,Inland Empire,Needles,1,0,0,1,0,0,0,0,0,0,0,0
+92377,CA,San Bernardino County,Inland Empire,Rialto,1,1,0,0,0,0,1,0,0,0,0,0
+92395,CA,San Bernardino County,Inland Empire,Victorville,1,1,0,0,0,0,1,0,0,0,0,0
+92399,CA,San Bernardino County,Inland Empire,Oak Glen,1,0,0,1,0,0,0,0,0,0,0,0
+92401,CA,San Bernardino County,Inland Empire,San Bernardino,1,1,0,0,0,0,1,0,0,0,0,0
+92405,CA,San Bernardino County,Inland Empire,San Bernardino,1,0,0,1,0,1,0,0,0,0,0,0
+92407,CA,San Bernardino County,Inland Empire,San Bernardino,1,1,0,0,0,0,1,0,0,0,0,0
+92408,CA,San Bernardino County,Inland Empire,San Bernardino,1,0,0,1,0,0,0,0,0,0,0,0
+92410,CA,San Bernardino County,Inland Empire,San Bernardino,1,1,0,0,0,0,1,0,0,0,0,0
+92411,CA,San Bernardino County,Inland Empire,San Bernardino,1,1,0,0,0,0,1,0,0,0,0,0
+92509,CA,Riverside County,Inland Empire,Riverside,1,0,1,0,0,0,1,0,0,0,0,0
+92548,CA,Riverside County,Inland Empire,Homeland,1,0,0,1,0,0,0,0,0,0,0,0
+92549,CA,Riverside County,Inland Empire,Idyllwild,1,0,0,1,0,0,0,0,0,0,0,0
+92557,CA,Riverside County,Inland Empire,Moreno Valley,1,0,0,0,1,0,1,0,0,0,0,0
+92562,CA,Riverside County,Inland Empire,Murrieta,1,0,1,0,0,0,1,0,0,0,0,0
+92570,CA,Riverside County,Inland Empire,Perris,1,0,0,1,0,1,1,0,0,0,0,0
+92592,CA,Riverside County,Inland Empire,Temecula,1,0,0,1,0,0,0,0,0,0,0,0
+92620,CA,Orange County,Orange County,Irvine,1,1,0,0,0,0,1,0,0,0,0,0
+92627,CA,Orange County,Orange County,Costa Mesa,1,0,1,0,0,1,1,0,0,0,0,0
+92630,CA,Orange County,Orange County,Lake Forest,1,1,0,0,0,0,1,0,0,0,0,0
+92646,CA,Orange County,Orange County,Huntington Beach,1,1,0,0,0,1,1,0,0,0,0,0
+92649,CA,Orange County,Orange County,Huntington Beach,1,0,0,0,1,0,0,0,0,0,0,0
+92657,CA,Orange County,Orange County,Newport Coast,1,0,0,1,0,1,1,0,0,0,0,0
+92683,CA,Orange County,Orange County,Westminster,1,1,0,0,0,0,1,0,0,0,0,0
+92701,CA,Orange County,Orange County,Santa Ana,1,1,0,0,0,0,1,0,0,0,0,0
+92705,CA,Orange County,Orange County,Santa Ana,1,0,0,1,0,0,0,0,0,0,0,0
+92780,CA,Orange County,Orange County,Tustin,1,0,0,1,0,0,0,0,0,0,0,0
+92802,CA,Orange County,Orange County,Anaheim,1,0,0,1,0,0,1,0,0,0,0,0
+92807,CA,Orange County,Orange County,Anaheim,1,1,0,0,0,0,1,0,0,0,0,0
+92844,CA,Orange County,Orange County,Garden Grove,1,0,0,1,0,0,0,0,0,0,0,0
+92870,CA,Orange County,Orange County,Placentia,1,0,0,1,0,0,1,0,0,0,0,0
+92882,CA,Riverside County,Inland Empire,Corona,1,1,0,0,0,1,1,0,0,0,0,0
+93004,CA,Ventura County,Central Coast,Ventura,1,0,0,1,0,0,0,0,0,0,0,0
+93030,CA,Ventura County,Central Coast,Oxnard,1,1,0,0,0,0,1,0,0,0,0,0
+93036,CA,Ventura County,Central Coast,Oxnard,1,0,1,0,0,1,1,0,0,0,0,0
+93041,CA,Ventura County,Central Coast,Port Hueneme,1,1,0,0,0,0,1,0,0,0,0,0
+93060,CA,Ventura County,Central Coast,Santa Paula,1,0,1,0,0,1,1,0,0,0,0,0
+93063,CA,Ventura County,Central Coast,Simi Calley,1,0,1,0,0,0,1,0,0,0,0,0
+93223,CA,Tulare County,San Joaquin Valley,Farmersville,1,0,1,0,0,0,1,0,0,0,0,0
+93230,CA,Kings County,San Joaquin Valley,Hanford,1,1,0,0,0,0,1,0,0,0,0,0
+93245,CA,Kings County,San Joaquin Valley,Lemoore,1,0,1,0,0,0,1,0,0,0,0,0
+93257,CA,Tulare County,San Joaquin Valley,Porterville,1,1,0,0,0,0,1,0,0,0,0,0
+93274,CA,Tulare County,San Joaquin Valley,Tulare,1,0,0,0,1,0,0,0,0,0,0,0
+93304,CA,Kern County,San Joaquin Valley,Bakersfield,1,1,0,0,0,1,1,0,0,0,0,0
+93309,CA,Kern County,San Joaquin Valley,Bakersfield,1,1,0,0,0,0,1,0,0,0,0,0
+93311,CA,Kern County,San Joaquin Valley,Bakersfield,1,0,1,0,0,1,1,0,0,0,0,0
+93312,CA,Kern County,San Joaquin Valley,Bakersfield,1,1,0,0,0,0,1,0,0,0,0,0
+93535,CA,Los Angeles County,Los Angeles County,Lancaster,1,1,0,0,0,1,1,0,0,0,0,0
+93543,CA,Los Angeles County,Los Angeles County,Littlerock,1,0,0,1,0,0,1,0,0,0,0,0
+93552,CA,Los Angeles County,Los Angeles County,Palmdale,1,1,0,0,0,0,1,0,0,0,0,0
+93610,CA,Madera County,San Joaquin Valley,Chowchilla,1,0,0,1,0,0,1,0,0,0,0,0
+93705,CA,Fresno County,San Joaquin Valley,Fresno,1,1,0,0,0,0,1,0,0,0,0,0
+93906,CA,Monterey County,Central Coast,Salinas,1,1,0,0,0,0,1,0,0,0,0,0
+93924,CA,Monterey County,Central Coast,Carmel Valley,1,1,0,0,0,0,1,0,0,0,0,0
+93933,CA,Monterey County,Central Coast,Marina,1,0,1,0,0,0,1,0,0,0,0,0
+94043,CA,Santa Clara County,Bay Area,Mountain View,1,1,0,0,0,0,1,0,0,0,0,0
+94063,CA,San Mateo County,Bay Area,Redwood City,1,1,0,0,0,0,1,0,0,0,0,0
+94108,CA,San Francisco County,Bay Area,San Francisco,1,0,0,1,0,0,0,0,0,0,0,0
+94124,CA,San Francisco County,Bay Area,San Francisco,1,0,0,0,1,0,0,0,0,0,0,0
+94134,CA,San Francisco County,Bay Area,San Francisco,1,0,1,0,0,0,1,0,0,0,0,0
+94303,CA,Santa Clara County,Bay Area,Palo Alto,1,0,0,1,0,1,0,0,0,0,0,0
+94531,CA,Contra Costa County,Bay Area,Antioch,1,1,0,0,0,0,1,0,0,0,0,0
+94533,CA,Solano County,Bay Area,Fairfield,1,0,0,1,0,0,0,0,0,0,0,0
+94536,CA,Alameda County,Bay Area,Fremont,1,0,1,0,0,0,1,0,0,0,0,0
+94566,CA,Alameda County,Bay Area,Pleasanton,1,0,0,1,0,0,1,0,0,0,0,0
+94568,CA,Alameda County,Bay Area,Dublin,1,0,0,1,0,1,0,0,0,0,0,0
+94580,CA,Alameda County,Bay Area,San Lorenzo,1,0,1,0,0,0,1,0,0,0,0,0
+94589,CA,Solano County,Bay Area,Vallejo,1,1,0,0,0,0,1,0,0,0,0,0
+94595,CA,Contra Costa County,Bay Area,Walnut Creek,1,0,1,0,0,1,1,0,0,0,0,0
+94605,CA,Alameda County,Bay Area,Oakland,1,1,0,0,0,0,1,0,0,0,0,0
+94610,CA,Alameda County,Bay Area,Oakland,1,0,0,0,1,0,0,0,0,0,0,0
+94806,CA,Contra Costa County,Bay Area,San Pablo,1,0,1,0,0,1,1,0,0,0,0,0
+95035,CA,Santa Clara County,Bay Area,Milpitas,1,1,0,0,0,0,1,0,0,0,0,0
+95065,CA,Santa Cruz County,Central Coast,Soquel,1,0,0,1,0,0,0,0,0,0,0,0
+95123,CA,Santa Clara County,Bay Area,Sanjose,1,0,1,0,0,0,1,0,0,0,0,0
+95126,CA,Santa Clara County,Bay Area,San Jose,1,0,0,1,0,0,0,0,0,0,0,0
+95203,CA,San Joaquin County,San Joaquin Valley,Stockton,1,0,1,0,0,0,1,0,0,0,1,1
+95204,CA,San Joaquin County,San Joaquin Valley,Stockton,1,0,1,0,0,0,1,0,0,0,0,0
+95301,CA,Merced County,San Joaquin Valley,Atwater,1,0,0,1,0,0,1,0,0,0,0,0
+95321,CA,Tuolumne County,North State & Sierra,Groveland,1,0,1,0,0,0,1,0,0,0,0,0
+95330,CA,San Joaquin County,San Joaquin Valley,Lathrop,1,0,0,1,0,0,0,0,0,0,0,0
+95354,CA,Stanislaus County,San Joaquin Valley,Modesto,1,1,0,0,0,0,1,0,0,0,0,0
+95355,CA,Stanislaus County,San Joaquin Valley,Modesto,1,0,1,0,0,0,1,0,0,0,0,0
+95361,CA,Stanislaus County,San Joaquin Valley,Oakdale,1,1,0,0,0,0,1,0,0,0,0,0
+95382,CA,Stanislaus County,San Joaquin Valley,Turlock,1,0,0,0,1,0,0,0,0,0,0,0
+95630,CA,Sacramento County,Sacramento Region,Folsom,1,0,1,0,0,0,1,0,0,0,0,0
+95666,CA,Amador County,North State & Sierra,Pioneer,1,0,1,0,0,1,1,0,0,0,0,0
+95667,CA,El Dorado County,Sacramento Region,Placerville,1,0,1,0,0,1,1,0,0,0,0,0
+95670,CA,Sacramento County,Sacramento Region,Rancho Cordova,1,1,0,0,0,0,1,0,0,0,0,0
+95765,CA,Placer County,Sacramento Region,Rocklin,1,1,0,0,0,0,1,0,0,0,0,0
+95815,CA,Sacramento County,Sacramento Region,Willows,1,1,0,0,0,0,1,0,0,0,0,0
+95821,CA,Sacramento County,Sacramento Region,Sacramento,1,0,0,0,1,0,0,0,0,0,0,0
+95828,CA,Sacramento County,Sacramento Region,Sacramento,1,1,0,0,0,0,1,0,0,0,0,0
+95833,CA,Sacramento County,Sacramento Region,Sacramento,1,1,0,0,0,0,1,0,0,0,0,0
+95842,CA,Sacramento County,Sacramento Region,Sacramento,1,0,1,0,0,0,1,0,0,0,0,0
+95843,CA,Sacramento County,Sacramento Region,Antelope,1,0,1,0,0,0,1,0,0,0,0,0
+96007,CA,Shasta County,North State & Sierra,Anderson,1,1,0,0,0,0,1,0,0,0,0,0
